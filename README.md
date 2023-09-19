@@ -54,3 +54,10 @@ This program was developed with following python package versions.
 * pyserial          3.4
 * python            3.7.7
 * vs2015_runtime    14.16.27012      
+
+## Original Author Acknoweledgement ##
+This project was initially authored by Kevin Williamson of NIST 
+(https://github.com/krwilliamson/arroyo_tec) but was moved to an
+Arroyo Instruments account to support ongoing development and support
+of this repository after Kevin's departure from NIST. Arroyo
+Instruments is very grateful for his development of this library.
