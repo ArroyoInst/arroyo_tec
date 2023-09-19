@@ -42,7 +42,7 @@ different syntax for connected devices and require adjustments to the
 __init__ coding.
 
 Tested on the following models:
-    3510 TEC Source
+    5310 TEC Source
     585-05-12 TECPak
     586-08-26 TECPak
 
